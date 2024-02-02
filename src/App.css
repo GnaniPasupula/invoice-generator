@@ -80,6 +80,10 @@ hr {
   background: #f5f7f9;
 }
 
+.invoice-list-item{
+  background: #f5f7f9;
+}
+
 #invoiceCapture {
   -webkit-user-select: none;
   -moz-user-select: none;
